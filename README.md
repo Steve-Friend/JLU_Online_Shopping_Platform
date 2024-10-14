@@ -1,0 +1,2 @@
+# JLU_Online_Shopping_Platform
+吉林大学HTML移动应用开发课程设计，吉大优购平台
